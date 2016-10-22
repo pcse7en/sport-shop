@@ -168,7 +168,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `address`, `mobile`, `block`, `register_date`, `position`, `admin_access`) VALUES
-(1, 'مهدی حاجت پور', 'mehdi98', '5270033828', 'mehdihajatpour0098@gamail.com', 'امیدیه کوی گلستان', '09165043171', 0, '1449013218', 'ADMIN', 1),
+(1, 'مهدی حاجت پور', 'admin', '4564545456', 'mehdihajatpour0098@gamail.com', 'امیدیه کوی گلستان', '09165043171', 0, '1449013218', 'ADMIN', 1),
 (2, 'صمد شریفی', 'samadsh', '1111', 'samadsharifi@yahoo.com', 'امیدیه منازل نیروی انتظامی', '09123244323', 0, '1449013218', 'CUSTOMER', 1),
 (3, 'سید خیرالله بهور', 'behvar20', '642411', 'behvar20@gmail.com', 'امیدیه مطهری پشت تدارکات سپاه', '09359949943', 0, '1449013218', 'CUSTOMER', 0),
 (4, 'مجتبی جعفرزاده', 'mojtaba.omd', '123456789', 'mojtabajafarzadeh@yahoo.com', 'امیدیه میانکوه', '09168882233', 1, '1449013218', 'CUSTOMER', 0),
